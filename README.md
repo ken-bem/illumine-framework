@@ -1,14 +1,14 @@
 # wpp-framework
 Micro PHP Framework for Developing Object Oriented Wordpress Plugins
 
-Framework: Flight
+Framework: 
 http://flightphp.com
 
-ORM: Granada
+ORM: 
 https://github.com/Surt/Granada
 
-Validation: Valitron
+Validation:
 https://github.com/vlucas/valitron
 
-Settings: WP Settings API
+Settings:
 https://github.com/tareq1988/wordpress-settings-api-class
