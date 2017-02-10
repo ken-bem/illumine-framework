@@ -1,4 +1,6 @@
 ---
-post_title: 'Setup &#038; Configuration'
+Documentation: 'Setup &#038; Configuration'
+Url: >
+  https://www.wordpresspluginpro.com/documentation/setup-configuration/
 ---
 1testa
