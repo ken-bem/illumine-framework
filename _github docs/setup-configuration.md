@@ -1,5 +1,5 @@
 ---
-0: Illuminate-Wp Framework
+Product: Illuminate-Wp Framework
 Documentation: 'Setup &#038; Configuration'
 Url: >
   https://www.wordpresspluginpro.com/documentation/setup-configuration/
