@@ -1,18 +1,17 @@
-# wpp-framework
-Micro PHP Framework for Developing Object Oriented Wordpress Plugins
+# illuminate-wp
+A Laravel Inspired WordPress Plugin Development Framework for 2017
 
 ### Framework: 
-- http://flightphp.com
-(Included via. Composer)
-
-### ORM: 
-- https://github.com/Surt/Granada
-(Included via. Composer)
-
-### Validation:
-- https://github.com/vlucas/valitron
-(Included via. Composer)
-
-### Settings:
-- https://github.com/tareq1988/wordpress-settings-api-class
-(Included as Class File in app/Helpers)
+- illuminate/cache
+- illuminate/config
+- illuminate/container
+- illuminate/cookie
+- illuminate/database
+- illuminate/events
+- illuminate/filesystem
+- illuminate/http
+- illuminate/pagination
+- illuminate/routing
+- illuminate/validation
+- illuminate/view
+- watson/rememberable
