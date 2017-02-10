@@ -2,7 +2,7 @@
 A Laravel Inspired WordPress Plugin Development Framework for 2017
 
 
-[Documentation](_github docs/index.md)
+[Documentation](_github docs/wpp-framework.md)
 
 ## Lightweight Design
 - Object Oriented
