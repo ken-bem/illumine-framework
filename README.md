@@ -2,16 +2,16 @@
 A Laravel Inspired WordPress Plugin Development Framework for 2017
 
 ### Framework: 
-- illuminate/cache
-- illuminate/config
-- illuminate/container
-- illuminate/cookie
-- illuminate/database
-- illuminate/events
-- illuminate/filesystem
-- illuminate/http
-- illuminate/pagination
-- illuminate/routing
-- illuminate/validation
-- illuminate/view
-- watson/rememberable
+- https://github.com/illuminate/cache
+- https://github.com/illuminate/config
+- https://github.com/illuminate/container
+- https://github.com/illuminate/cookie
+- https://github.com/illuminate/database
+- https://github.com/illuminate/events
+- https://github.com/illuminate/filesystem
+- https://github.com/illuminate/http
+- https://github.com/illuminate/pagination
+- https://github.com/illuminate/routing
+- https://github.com/illuminate/validation
+- https://github.com/illuminate/view
+- https://github.com/watson/rememberable
