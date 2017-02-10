@@ -17,7 +17,7 @@ header_title_bar:
 header_transparency:
   - ""
 ---
-[av_heading tag='h1' padding='10' heading='Illuminate-Wp Framework' color='custom-color-heading' style='blockquote modern-quote modern-centered' custom_font='#3a8fff' size='' subheading_active='subheading_below' subheading_size='18' custom_class='']
+[av_heading heading='WPP Framework' tag='h1' style='blockquote modern-quote modern-centered' size='' subheading_active='subheading_below' subheading_size='18' padding='10' color='custom-color-heading' custom_font='#3a8fff']
 A Laravel Inspired Wordpress Plugin Development Framework for 2017
 [/av_heading]
 
@@ -110,7 +110,6 @@ A Laravel Inspired Wordpress Plugin Development Framework for 2017
 [/av_one_third]
 
 [av_one_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_display='']
-
 [av_textblock size='' font_color='' color='']
 <strong>Packages Included</strong>
 <pre>illuminate/cache
@@ -127,5 +126,4 @@ illuminate/validation
 illuminate/view
 watson/rememberable</pre>
 [/av_textblock]
-
 [/av_one_third]
