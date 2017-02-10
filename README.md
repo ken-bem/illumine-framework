@@ -2,7 +2,7 @@
 A Laravel Inspired WordPress Plugin Development Framework for 2017
 
 
-[Documentation](docs/index.md)
+[Documentation](_github docs/index.md)
 
 ## Lightweight Design
 - Object Oriented
