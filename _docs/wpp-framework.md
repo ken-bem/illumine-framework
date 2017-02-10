@@ -4,3 +4,4 @@ Documentation: WPP-Framework
 Url: >
   https://www.wordpresspluginpro.com/docs/wpp-framework/
 ---
+[subpages]
