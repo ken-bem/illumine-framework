@@ -1,4 +1,4 @@
 # Illumine Framework
 Premium Laravel Based WordPress Plugin Framework
 
-[Documentation](https://github.com/bayareabuilder/illumine-framework/_docs/illumine-framework.md)
+[Documentation](https://github.com/bayareabuilder/illumine-framework/blob/master/_docs/illumine-framework.md)
