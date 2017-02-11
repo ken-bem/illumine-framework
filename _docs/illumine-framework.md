@@ -18,3 +18,6 @@ Bower can manage components that contain HTML, CSS, JavaScript, fonts or even im
 
 <a href="https://bower.io">https://bower.io</a>
 <h3>Node.js</h3>
+Node.js is a runtime built on <a href="https://developers.google.com/v8/">Chrome's V8 JavaScript engine</a>. Node.js' package ecosystem, <a href="https://www.npmjs.com/">npm</a>, is the largest ecosystem of open source libraries in the world.
+
+https://nodejs.org/en/download/
