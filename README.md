@@ -1,5 +1,5 @@
 # WPP Framework
-A Laravel Inspired WordPress Plugin Development Framework for 2017
+Premium Laravel Based WordPress Plugin Framework
 
 
 [Documentation](_docs/wpp-framework.md)
