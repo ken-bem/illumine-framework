@@ -1,4 +1,4 @@
-# WPP Framework
+# Illumine Framework
 Premium Laravel Based WordPress Plugin Framework
 
 
