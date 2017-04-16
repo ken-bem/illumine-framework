@@ -30,6 +30,7 @@ illumine-framework/illumine/controllers/BaseController.php
 </strong><strong>illumine-framework/plugin.php
 composer.json (line 27)</strong></pre>
 </li>
+ 	<li>Open a terminal and CD into the project directory and run "composer update"</li>
  	<li>Upload the plugin to your server or symlink to your local Wordpress installation.</li>
  	<li>Test included shortcodes:
 <strong>[wpp_directory]</strong> <em>(Ajax Pagination of all Posts)</em>
