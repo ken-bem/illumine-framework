@@ -25,9 +25,6 @@ class UserProfileController extends Controller {
     public function data()
     {
 
-        //Assign Request Query to Template Variables
-        $this->attributes['searchTerm'] = $this->request->get('wpp_search');
-
         //Save Data
         if($this->request->isMethod('put')){
 
