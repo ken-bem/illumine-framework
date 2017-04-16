@@ -27,8 +27,7 @@ illumine-framework/illumine/controllers/BaseController.php
 </li>
  	<li>Edit the primary namespace of  files to match your configuration setting.
 <pre><strong>illumine-framework/app/*
-</strong></pre>
-<pre><strong>illumine-framework/plugin.php
+</strong><strong>illumine-framework/plugin.php
 composer.json (line 27)</strong></pre>
 </li>
  	<li>Upload the plugin to your server or symlink to your local Wordpress installation.</li>
