@@ -39,4 +39,5 @@ illumine-framework/illumine/controllers/BaseController.php
 <strong>[wpp_profile]</strong> <em>(Update Current User)</em>
 <strong>[wpp_search]</strong> <em>(Basic Search Field)</em></li>
 </ol>
+
 Please help us make Illumine the best it can be.   Contribute any suggestions or solutions on GitHub or our website.
