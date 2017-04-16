@@ -63,7 +63,7 @@ class UserProfileController extends Controller {
      */
     public function template()
     {
-        $this->view('forms.user-profile',$this->attributes)->render();
+        $this->view('forms.profile',$this->attributes)->render();
     }
 
     /**
