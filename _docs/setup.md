@@ -8,6 +8,7 @@ Url: >
 <ul><li class="pagenav">Documentation<ul><li class="page_item page-item-559"><a href="setup.md">Setup &#038; Configuration</a></li>
 </ul></li></ul>
 ## Setup & Configuration
+
 Illumine Framework is designed as a starter which you can own going forward.  This codebase is a platform to extent into your own plugin framework for your projects.  Together we can design the best possible setup to share amongst each other while still remaining independent and free to manage our code on our own with customizations to any component.
 
 **Currently the framework is not designed to be updated by a secondary repo.  Once we can resolve the dynamic aspect of the container we can move the framework to its own repo separate from the current package.
