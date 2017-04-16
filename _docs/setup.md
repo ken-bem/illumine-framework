@@ -5,8 +5,10 @@ Url: >
   https://www.wordpresspluginpro.com/docs/illumine-framework/setup/
 ---
 # Illumine-Framework
+
 <ul><li class="pagenav">Documentation<ul><li class="page_item page-item-559"><a href="setup.md">Setup &#038; Configuration</a></li>
 </ul></li></ul>
+
 ## Setup & Configuration
 
 Illumine Framework is designed as a starter which you can own going forward.  This codebase is a platform to extent into your own plugin framework for your projects.  Together we can design the best possible setup to share amongst each other while still remaining independent and free to manage our code on our own with customizations to any component.
