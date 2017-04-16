@@ -1,0 +1,32 @@
+{
+  "name": "illumine-plugin-skeleton",
+  "authors": [
+    "Wordpress Plugin Pro <info@WordpressPluginPro.com>"
+  ],
+  "description": "Wordpress Plugin Framework",
+  "main": [
+    "./resources/assets/js/plugin.js",
+    "./resources/assets/css/plugin.css"
+  ],
+  "keywords": [
+    "Wordpress",
+    "Laravel",
+    "Framework",
+    "Plugin"
+  ],
+  "license": "© Copyright 2017 - All Rights Reserved.",
+  "homepage": "http://www.WordpressPluginPro.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "app",
+    "bootstrap",
+    "bower_components",
+    "cache",
+    "illumine",
+    "node_modules",
+    "resources",
+    "vendor"
+  ],
+  "devDependencies": {}
+}

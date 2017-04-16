@@ -1,0 +1,36 @@
+{
+  "name": "wordpresspluginpro/wpp-plugin-skeleton",
+  "type": "project",
+  "author": "Dan Alvidrez <info@wordpresspluginpro.com>",
+  "require": {
+    "illuminate/filesystem": "^5.0",
+    "illuminate/config": "^5.0",
+    "illuminate/container": "^5.0",
+    "illuminate/database": "^5.0",
+    "illuminate/events": "^5.0",
+    "illuminate/http": "^5.0",
+    "illuminate/routing": "^5.0",
+    "illuminate/view": "^5.0",
+    "illuminate/cookie": "^5.0",
+    "illuminate/pagination": "^5.0",
+    "watson/rememberable": "^2.0",
+    "illuminate/cache": "^5.0",
+    "illuminate/validation": "^5.0"
+  },
+  "config": {
+    "preferred-install": "dist"
+  },
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "WppSkeleton\\": "app",
+      "IllumineFramework\\": "illumine"
+    }
+  },
+  "post-install-cmd": [
+    "composer dump-autoload -o"
+  ],
+  "post-update-cmd": [
+    "composer dump-autoload -o"
+  ]
+}
