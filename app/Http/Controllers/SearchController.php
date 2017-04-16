@@ -33,7 +33,7 @@ class SearchController extends Controller {
     public function template()
     {
 
-        $this->view('search_form',$this->attributes)->render();
+        $this->view('forms.search',$this->attributes)->render();
     }
 
     /**
