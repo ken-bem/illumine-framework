@@ -31,7 +31,7 @@ class DirectoryController extends Controller {
 
         $this->cookieJar->queue('test', 'test', 45000);
 
-        $this->view('test', array(
+        $this->view('directory', array(
             'posts' => $posts
         ))->render();
     }
