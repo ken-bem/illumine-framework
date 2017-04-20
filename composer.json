@@ -15,7 +15,8 @@
     "illuminate/pagination": "^5.0",
     "watson/rememberable": "^2.0",
     "illuminate/cache": "^5.0",
-    "illuminate/validation": "^5.0"
+    "illuminate/validation": "^5.0",
+    "aws/aws-sdk-php": "^3.26"
   },
   "config": {
     "preferred-install": "dist"
